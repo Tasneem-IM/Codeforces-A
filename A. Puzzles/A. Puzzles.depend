@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723119839 source:c:\users\owner\onedrive\desktop\proplem solving\a. puzzles\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
