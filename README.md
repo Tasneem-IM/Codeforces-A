@@ -1,1 +1,1 @@
-# 🌟 **Codeforces-A Public** 🌟
+# 🌟 **Codeforces-A ** 🌟
